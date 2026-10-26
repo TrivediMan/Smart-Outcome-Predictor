@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4f46e5,50:7c3aed,100:db2777&height=260&section=header&text=Smart%20Outcome%20Predictor&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Predict%20course%20completion%20%26%20final%20score%20with%20Machine%20Learning&descAlignY=62&descSize=18" width="100%" alt="Smart Outcome Predictor banner"/>
+<a href="https://smart-outcome-predictor-by-mantrivedi.streamlit.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3500&pause=1200&color=FFFFFF&background=5B21B6&center=true&vCenter=true&width=1000&height=150&lines=%F0%9F%8E%AF+Smart+Outcome+Predictor;Course+Completion+%2B+Final+Score+Prediction;Machine+Learning+%C2%B7+Streamlit+%C2%B7+Random+Forest" alt="Smart Outcome Predictor"/>
+</a>
 
-<a href="https://smart-outcome-predictor-by-master.streamlit.app/">
+<a href="https://smart-outcome-predictor-by-mantrivedi.streamlit.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Will+this+student+finish+the+course%3F;What+final+score+will+they+achieve%3F;Random+Forest+pipelines+%2B+Streamlit;Spot+at-risk+learners+before+they+drop+out" alt="Typing animation"/>
 </a>
 
 <br/><br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Open_App-7C3AED?style=for-the-badge)](https://smart-outcome-predictor-by-master.streamlit.app/)
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-outcome-predictor-by-master.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Open_App-7C3AED?style=for-the-badge)](https://smart-outcome-predictor-by-mantrivedi.streamlit.app/)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-outcome-predictor-by-mantrivedi.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -89,7 +91,7 @@ Data Explorer and Model Insights pages inside the app.
 
 ## 🚀 Live App
 
-> ### 👉 **[smart-outcome-predictor-by-master.streamlit.app](https://smart-outcome-predictor-by-master.streamlit.app/)**
+> ### 👉 **[smart-outcome-predictor-by-mantrivedi.streamlit.app](https://smart-outcome-predictor-by-mantrivedi.streamlit.app/)**
 
 | Page | What you can do |
 |---|---|
@@ -379,12 +381,14 @@ Deployed on **Streamlit Community Cloud**:
 
 **Created and maintained by Man Trivedi**
 
-[![Live App](https://img.shields.io/badge/Try_the_App-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-outcome-predictor-by-master.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Try_the_App-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-outcome-predictor-by-mantrivedi.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-profile>)
 
 ### ⭐ If you found this project useful, please give it a star!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,50:7c3aed,100:4f46e5&height=140&section=footer" width="100%" alt="footer"/>
+<a href="https://smart-outcome-predictor-by-mantrivedi.streamlit.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=FFFFFF&background=5B21B6&center=true&vCenter=true&width=1000&height=70&lines=Made+with+%E2%9D%A4+by+Man+Trivedi;Thanks+for+visiting+%E2%AD%90+Star+the+repo" alt="Made by Man Trivedi"/>
+</a>
 
 </div>
